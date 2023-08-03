@@ -6,7 +6,7 @@ A collection of assorted Python scripts that I made for whatever purpose. There'
 
 Detailed usage instructions can be found in each script's folder.
 
-#### [BMFont Format Converter]()
+#### [BMFont Format Converter](https://github.com/trianglebreaker/python_script_junk_drawer/tree/main/bmfont_format_converter)
 
 Converts [BMFont](https://www.angelcode.com/products/bmfont/) files between text, XML, and binary (version 3) formats.
 

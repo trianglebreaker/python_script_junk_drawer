@@ -1,6 +1,6 @@
 ## BMFont Format Converter
 
-Converts [BMFont](https://www.angelcode.com/products/bmfont/) files between text, XML, and binary (version 3) formats.
+Converts [BMFont](https://www.angelcode.com/products/bmfont/) .fnt files between text, XML, and binary (version 3) formats.
 
 ### Requirements
 
